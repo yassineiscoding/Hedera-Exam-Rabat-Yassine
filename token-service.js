@@ -135,6 +135,7 @@ console.log(`The token supply key is ${tokenSupplyKey}`);
 console.log(`The token custom fees is ${tokenCustomFees}`);
 console.log(`The token fee schedule key is ${tokenFeeScheduleKey}`);
 
+nftCreate.setTokenMemo("Welcome to the Mystic Token Page!");
 
 
 //v2.0.7
